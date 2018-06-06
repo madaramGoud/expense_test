@@ -1,6 +1,6 @@
 {
     'name': 'Cafe Management',
-    'version': '0.1',
+    'version': '0.1.1',
     'category': 'cafe',
     'description': """
       Cafe Management is a module to help cafe managers and owners find in-depth information in regards to
